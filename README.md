@@ -24,6 +24,13 @@
   ## License
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
+  # links
+
+  link to video of application - https://watch.screencastify.com/v/xKTNj6RfA9Vas3UGWvXt
+
+  deployed heroku app: https://evening-ravine-54411.herokuapp.com/
+  GitHub repository: https://github.com/haredahmed99/note-taker.git
 
    
   
