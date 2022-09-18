@@ -4,9 +4,6 @@
 
   This application will allow users to track notes, tasks, grocery lists...
 
-  ## Live Page
-  [Note Taker App](https://frozen-sands-73065.herokuapp.com/)
-
   ## Screenshots
   ![](./assets/screenshot.png)
 
